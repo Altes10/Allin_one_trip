@@ -1,7 +1,7 @@
 <template>
   <div id="display">
     <div id="fond2">
-        <img src="../assets/Fond.jpeg" id="nevada">
+        <img src="../asset/Fond.jpeg" id="nevada">
         <p class="pays">ETATS-UNIS</p>
         <div class="display2">
             <p class="one">10 - 20 Juillet</p>
@@ -10,7 +10,7 @@
         <p id="prix">5 000 €</p>
     </div>
     <div id="fond2">
-        <img src="../assets/Fond.png" id="nevada">
+        <img src="../asset/Fond.png" id="nevada">
         <p class="pays">ITALIE</p>
         <div class="display2">
             <p class="one">14 - 18 octobre</p>
@@ -19,7 +19,7 @@
         <p id="prix"> 2 500 €</p>
     </div>
     <div id="fond2">
-        <img src="../assets/Fond2.png" id="nevada">
+        <img src="../asset/Fond2.png" id="nevada">
         <p class="pays">THAÏLANDE</p>
         <div class="display2">
             <p class="one">01 - 15 Août</p>
