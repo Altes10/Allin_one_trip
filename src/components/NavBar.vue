@@ -7,7 +7,7 @@
         <li class="parent"><a class="link" href="#">Home</a></li>
         <li class="parent"><a class="link" href="#">About</a></li>
         <li class="parent"><a class="link" href="#">Contact</a></li>
-        <a class="link" href="/login"><img class="parent" src="../assets/utilisateur.png"/></a>
+        <a class="link" href="/login"><img class="parent" src="../asset/utilisateur.png"/></a>
     </ul>
   </nav>
 </template>
