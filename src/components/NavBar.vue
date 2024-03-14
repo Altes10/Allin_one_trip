@@ -1,7 +1,7 @@
 <template>
   <nav class="navigationWrapper">
     <div class="logoWrapper">
-        <img src="../assets/logo.png"/>
+        <img src="../asset/logo.png"/>
     </div>
     <ul class="navigation">
         <li class="parent"><a class="link" href="#">Home</a></li>
